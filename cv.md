@@ -26,3 +26,12 @@
 
 6. __Code example:__
  ``` javascript function multiply(a, b){ return a * b}```
+
+7. __I haven’t work experience__
+
+8. #### __Some information about me__ 
+Now i am second year student at EDURFE. Passionate about learning to program
+
+9. __Languages__
+ * Russian 
+ * English 
