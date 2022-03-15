@@ -10,9 +10,19 @@
   * CSS
   * Git/GitHub
 
-4. ## __Contacts:__
+
+4. __Education:__
+  * EDURFE
+  * RS-School (in process)
+
+
+5. ## __Contacts:__
   * +375447594299
   * petukhin1992@mail.ru
   * Semyon(@trob1e)
 
-5. 
+
+
+
+6. __Code example:__
+ ``` javascript function multiply(a, b){ return a * b}```
