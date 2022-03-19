@@ -1,1 +1,1 @@
-https://trob1e.github.io/rsschool-cv/
+https://trob1e.github.io/rsschool-cv/cv
